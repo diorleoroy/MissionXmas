@@ -1,0 +1,71 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\kinecttest3\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.585423 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16cc -> priority: 1 
+  Thread -> id: c3c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.342713 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 62254.
+Total: 11.222524 ms (FindLiveObjects: 3.505040 ms CreateObjectMapping: 0.795828 ms MarkObjects: 6.822176 ms  DeleteObjects: 0.097899 ms)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.883392 ms
+
+Unloading 309 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 1.964306 ms (FindLiveObjects: 0.069477 ms CreateObjectMapping: 0.032764 ms MarkObjects: 0.238037 ms  DeleteObjects: 1.623632 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.753194 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 62254.
+Total: 10.948957 ms (FindLiveObjects: 3.468722 ms CreateObjectMapping: 0.591344 ms MarkObjects: 6.790991 ms  DeleteObjects: 0.097504 ms)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.543509 ms
+
+Unloading 309 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 2.200765 ms (FindLiveObjects: 0.052897 ms CreateObjectMapping: 0.031975 ms MarkObjects: 0.268434 ms  DeleteObjects: 1.846669 ms)
+

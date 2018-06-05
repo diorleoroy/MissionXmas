@@ -1,0 +1,352 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.588186 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1fac -> priority: 1 
+  Thread -> id: 1450 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.532673 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 62254.
+Total: 9.627315 ms (FindLiveObjects: 3.139890 ms CreateObjectMapping: 0.640689 ms MarkObjects: 5.769756 ms  DeleteObjects: 0.075398 ms)
+
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.485155 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b8c -> priority: 1 
+  Thread -> id: 1b14 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.831503 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 62254.
+Total: 12.927476 ms (FindLiveObjects: 3.876900 ms CreateObjectMapping: 0.883464 ms MarkObjects: 8.078685 ms  DeleteObjects: 0.086451 ms)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.502129 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: ca4 -> priority: 1 
+  Thread -> id: 4d8 -> priority: 1 
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.484365 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: e7c -> priority: 1 
+  Thread -> id: bd4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.914402 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 62254.
+Total: 9.759163 ms (FindLiveObjects: 3.160023 ms CreateObjectMapping: 0.614240 ms MarkObjects: 5.903579 ms  DeleteObjects: 0.080135 ms)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 23.719717 ms
+
+Unloading 308 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 1.873513 ms (FindLiveObjects: 0.088030 ms CreateObjectMapping: 0.036317 ms MarkObjects: 0.264091 ms  DeleteObjects: 1.484283 ms)
+
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.579107 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1430 -> priority: 1 
+  Thread -> id: 2588 -> priority: 1 
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\Desktop\HCI finalproject\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.542789 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bdc -> priority: 1 
+  Thread -> id: 7cc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.256261 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 62254.
+Total: 15.964729 ms (FindLiveObjects: 6.682827 ms CreateObjectMapping: 1.028339 ms MarkObjects: 8.153295 ms  DeleteObjects: 0.098689 ms)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+good
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 23.058500 ms
+
+Unloading 308 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 1.767718 ms (FindLiveObjects: 0.089214 ms CreateObjectMapping: 0.040265 ms MarkObjects: 0.205667 ms  DeleteObjects: 1.431386 ms)
+
